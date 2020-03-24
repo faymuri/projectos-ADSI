@@ -1,0 +1,9 @@
+averiguar que microservicios ofrece facebook, twitter, google,microsoft entre otros (es mas, hacerme unos ejemplos conn almenos otras 3 aplicaciones)
+
+que es rest, soap, restful con ejemplos reales.
+
+que es bioinformatica
+
+que son variables de entorno, ventajas y usos con ejemplos
+
+que es docker y como se usa
